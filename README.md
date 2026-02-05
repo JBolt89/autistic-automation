@@ -1,2 +1,3 @@
 # autistic-automation
-we did the thing
+
+Main repository for the project.
